@@ -3,12 +3,12 @@
 - Atualmente, busco minha primeira oportunidade como "Junior".
 - Estudando HTML e CSS.
 - Conhecimentos em HTML, CSS, C e Python.
-- Pronouns: ele/dele.
+- Pronomes: ele/dele.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRipoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRipoli&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeRipoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRipoli&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
