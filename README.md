@@ -19,6 +19,15 @@
     <li>Pronomes: Ele/ Dele.</li>
   </ul>
 </section>  
+  
+  ##
+  
+  <section>
+      <article>
+          <h2>I'm currently studying/ Estudando Atualmente : </h2>
+          <p><strong>HTML5</strong>, <strong>CSS3</strong> and <strong>JavaSrcipt</strong></p>
+      </article>
+  </section>
 
 <div align="center">
   <a href="https://github.com/feliperipoli">
