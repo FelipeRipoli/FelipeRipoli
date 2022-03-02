@@ -38,6 +38,7 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="ícone linguagem de programação C" title="Favicon C"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="ícone linguagem de marcação html5" title="Favicon HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="ícone linguagem de marcação CSS3" title="Favicon CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="ícone linguagem de marcação JS" title="Favicon Javascript"/>
 </div>
   
   ##
