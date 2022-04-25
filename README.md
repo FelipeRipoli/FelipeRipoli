@@ -3,7 +3,7 @@
   <ul>
     <li>I'm looking for Opportunities/ Projects that can add any knowledge to me.</li>
     <li>I have 18 years old.</li>
-    <li>I have knowledges in Python, C, HTML, CSS and Java.</li>
+    <li>I have knowledges in Python, C, HTML5, CSS3, JavaScript and Java.</li>
     <li>Currently, I'm studying HTML5, CSS3, Java and Javascript.</li>
     <li>Pronouns : He/ Him.</li>
 </header>
@@ -14,7 +14,7 @@
   <h1> Olá! Eu sou o Felipe Ripoli. </h1>
   <ul>
     <li>Busco por Oportunidades/ Projetos.</li>
-    <li>Conhecimentos em Python, C, HTML, CSS e Java.</li>
+    <li>Conhecimentos em Python, C, HTML5, CSS3, JavaScript e Java.</li>
     <li>Atualmente estudando HTML5, CSS3, Java e Javascript.</li>
     <li>Pronomes: Ele/ Dele.</li>
   </ul>
@@ -25,7 +25,7 @@
   <section>
       <article>
           <h2>I'm currently studying/ Estudando Atualmente : </h2>
-          <p><strong>HTML5</strong>, <strong>CSS3</strong> and <strong>JavaSrcipt</strong></p>
+          <p><strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaSrcipt</strong> and <strong>Java</strong></p>
       </article>
   </section>
 
