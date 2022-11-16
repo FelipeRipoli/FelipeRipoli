@@ -2,7 +2,7 @@
   <h1>Hi! I'm Felipe Ripoli!</h1>
   <ul>
     <li>I'm looking for Opportunities/ Projects that can add any knowledge to me.</li>
-    <li>I have 18 years old.</li>
+    <li>I have 19 years old.</li>
     <li>I have knowledges in Python, C, HTML5, CSS3, JavaScript and Java.</li>
     <li>Currently, I'm studying Java.</li>
     <li>Pronouns : He/ Him.</li>
