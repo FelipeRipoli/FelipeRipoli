@@ -41,7 +41,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="ícone linguagem de marcação JS" title="Favicon Javascript"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="ícone git" title= "Favicon GIT"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="Ícone Oracle" title="Favicon ORACLE"/>
-    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-              logo-shadow-tal-revivo.png" alt="Ícon Kotlin" title="Favicon Kotlin"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="Ícon Kotlin" title="Favicon Kotlin"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="Ícon MySQL" title="Favicon MySQL"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="ícone linguagem de marcação JS" title="Favicon Javascript"/>
 </div>
