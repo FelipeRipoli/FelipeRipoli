@@ -3,7 +3,7 @@
   <ul>
     <li>I'm looking for Opportunities/ Projects that can add any knowledge to me.</li>
     <li>I have 19 years old.</li>
-    <li>I have knowledges in Python, C, HTML5, CSS3, JavaScript, MySQL, Oracle Apex, Kotlin, GIT and Java.</li>
+    <li>I have knowledges in Python, C, HTML5, CSS3, JavaScript and Java.</li>
     <li>Currently, I'm studying Java.</li>
     <li>Pronouns : He/ Him.</li>
 </header>
@@ -14,7 +14,7 @@
   <h1> Olá! Eu sou o Felipe Ripoli. </h1>
   <ul>
     <li>Busco por Oportunidades/ Projetos.</li>
-    <li>Conhecimentos em Python, C, HTML5, CSS3, JavaScript, MySQL, Oracle Apex, Kotlin, GIT and Java.</li>
+    <li>Conhecimentos em Python, C, HTML5, CSS3, JavaScript e Java.</li>
     <li>Atualmente estudando Java.</li>
     <li>Pronomes: Ele/ Dele.</li>
   </ul>
@@ -39,6 +39,11 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="ícone linguagem de marcação html5" title="Favicon HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="ícone linguagem de marcação CSS3" title="Favicon CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="ícone linguagem de marcação JS" title="Favicon Javascript"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="ícone git" title= "Favicon GIT"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="Ícone Oracle" title="Favicon ORACLE"/>
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-              logo-shadow-tal-revivo.png" alt="Ícon Kotlin" title="Favicon Kotlin"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="Ícon MySQL" title="Favicon MySQL"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="ícone linguagem de marcação JS" title="Favicon Javascript"/>
 </div>
   
   ##
