@@ -4,7 +4,7 @@
     <li>I'm looking for Opportunities/ Projects that can add any knowledge to me.</li>
     <li>I have 19 years old.</li>
     <li>I have knowledges in Python, C, HTML5, CSS3, JavaScript and Java.</li>
-    <li>Currently, I'm studying Java.</li>
+    <li>Currently, I'm studying PHP</li>
     <li>Pronouns : He/ Him.</li>
 </header>
   
@@ -15,7 +15,7 @@
   <ul>
     <li>Busco por Oportunidades/ Projetos.</li>
     <li>Conhecimentos em Python, C, HTML5, CSS3, JavaScript e Java.</li>
-    <li>Atualmente estudando Java.</li>
+    <li>Atualmente estudando PHP</li>
     <li>Pronomes: Ele/ Dele.</li>
   </ul>
 </section>  
@@ -25,7 +25,7 @@
   <section>
       <article>
           <h2>I'm currently studying/ Estudando Atualmente : </h2>
-          <p><strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaSrcipt</strong> and <strong>Java</strong></p>
+          <p><strong>PHP</strong></p>
       </article>
   </section>
 
