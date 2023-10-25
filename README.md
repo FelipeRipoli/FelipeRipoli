@@ -44,6 +44,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="ícone linguagem de marcação JS" title="Favicon Javascript"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="Ícon MySQL" title="Favicon MySQL"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="Ícone Oracle" title="Favicon ORACLE"/>
+  <img width="48" height="48" src="https://icons8.com.br/icon/JybIpZjjXT0F/elefante-php" alt="Ícone PHP" title="Favicon PHP"/>
 </div>
   
   ##
