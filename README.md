@@ -35,15 +35,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRipoli&layout=compact&langs_count=7&theme=dark"/> 
   <br/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="ícone linguagem de programação Python" title="Favicon Python"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="Ícone Oracle" title="Favicon ORACLE"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="ícone linguagem de programação C" title="Favicon C"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="ícone linguagem de marcação html5" title="Favicon HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="ícone linguagem de marcação CSS3" title="Favicon CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="ícone linguagem de marcação JS" title="Favicon Javascript"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="Ícon MySQL" title="Favicon MySQL"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="ícone git" title= "Favicon GIT"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="Ícon Kotlin" title="Favicon Kotlin"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="ícone linguagem de marcação JS" title="Favicon Javascript"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="Ícon MySQL" title="Favicon MySQL"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="Ícone Oracle" title="Favicon ORACLE"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/php-elephant.png" alt="Ícone PHP" title="Favicon PHP"/>
 </div>
   
