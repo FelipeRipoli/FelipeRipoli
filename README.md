@@ -6,6 +6,7 @@
     <li>I have knowledges in Python, C, HTML5, CSS3, PHP, MySql, Oracle Apex, Git, Kotlin, JavaScript e Java.</li>
     <li>Currently, I'm studying PHP</li>
     <li>Pronouns : He/ Him.</li>
+  </ul>  
 </header>
   
 ##
