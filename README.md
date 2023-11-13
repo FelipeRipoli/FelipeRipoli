@@ -2,7 +2,7 @@
   <h1>Hi! I'm Felipe Ripoli!</h1>
   <ul>
     <li>I'm looking for Opportunities/ Projects that can add any knowledge to me.</li>
-    <li>I have 19 years old.</li>
+    <li>I have 20 years old.</li>
     <li>I have knowledges in Python, C, HTML5, CSS3, PHP, MySql, Oracle Apex, Git, Kotlin, JavaScript e Java.</li>
     <li>Currently, I'm studying PHP</li>
     <li>Pronouns : He/ Him.</li>
@@ -15,6 +15,7 @@
   <h1> Olá! Eu sou o Felipe Ripoli. </h1>
   <ul>
     <li>Busco por Oportunidades/ Projetos.</li>
+    <li>Tenho 20 anos de idade</li>
     <li>Conhecimentos em Python, C, HTML5, CSS3, PHP, MySql, Oracle Apex, Git, Kotlin, JavaScript e Java</li>
     <li>Atualmente estudando PHP</li>
     <li>Pronomes: Ele/ Dele.</li>
